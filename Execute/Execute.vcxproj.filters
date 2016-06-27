@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="MainSystem.cpp">
+      <Filter>MainSystem</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="MainSystem">
+      <UniqueIdentifier>{e37dd6a1-3ac5-4400-a36c-ba670b543220}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MainSystem.h">
+      <Filter>MainSystem</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

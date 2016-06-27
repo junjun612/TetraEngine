@@ -1,0 +1,279 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Core">
+      <UniqueIdentifier>{03c17c27-7542-41dd-811c-d98ca6a82389}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\Error">
+      <UniqueIdentifier>{4b89a367-c261-4344-9338-f47143560f2a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\Headers">
+      <UniqueIdentifier>{4adf4caf-e3cd-40a4-8526-df2b904bc580}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\Headers\API">
+      <UniqueIdentifier>{18b64423-7431-468b-bd93-f63f10647de4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\Headers\Defined">
+      <UniqueIdentifier>{5b5cc894-470e-443e-90f3-4d321eb8b35d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System">
+      <UniqueIdentifier>{82ed6754-9a88-470e-bc14-0eb294b371ad}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\Manager">
+      <UniqueIdentifier>{155b1189-3c5d-4d3e-b924-f6fa0711dae5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\Systems">
+      <UniqueIdentifier>{56ff4a5a-5c76-438c-a799-1d72dd22555e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\Algorithm">
+      <UniqueIdentifier>{0dd6f256-3bd3-4855-9a58-ce99f31e54b3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\Math">
+      <UniqueIdentifier>{e6d0a76a-c9dc-4825-98cc-912037d3b229}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\Math\Vector3">
+      <UniqueIdentifier>{578311aa-45a7-4997-bc11-6140375147b8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\Systems\WindowSystem">
+      <UniqueIdentifier>{7c26429a-1739-481e-9b67-969cf59b9272}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\Systems\GraphicSystem">
+      <UniqueIdentifier>{0f66fba0-2785-46a5-9160-29fb356b5448}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\Object">
+      <UniqueIdentifier>{0a7c5057-d1cc-439c-9e9c-a8bd23bd50f3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\Resource">
+      <UniqueIdentifier>{3c6cf9ee-5f9e-41d5-b178-d5a997c96227}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\Object\Component">
+      <UniqueIdentifier>{e573bedb-4d08-4155-9e9a-16579ee3ac21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\Math\Matrix4x4">
+      <UniqueIdentifier>{7f689a5f-0128-44f0-a919-4ff34e475c50}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\Systems\GraphicSystem\GraphicTexture">
+      <UniqueIdentifier>{ef19fecd-3895-475a-991d-d028935d742a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\Systems\GraphicSystem\GraphicSystems">
+      <UniqueIdentifier>{e5ff6d9b-798d-4afe-b09c-57dc3d9f5ee9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\Systems\GraphicSystem\GraphicSystems\DX9GraphicSystem">
+      <UniqueIdentifier>{4a57c934-f689-4473-828d-9544b4755987}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\Systems\GraphicSystem\GraphicSystems\DX9GraphicSystem\DX9GraphicTexture">
+      <UniqueIdentifier>{99a5b6a2-2c1c-4bbd-b9db-7db2a1bff4ab}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\Systems\ResourceManageSystem">
+      <UniqueIdentifier>{0c99ec36-f0ad-4e00-8e3e-6cf5aba9f305}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\Systems\TimerSystem">
+      <UniqueIdentifier>{c5c5ef07-f3cb-4ba4-88d3-1bb0ad65e532}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\Resource\Resources">
+      <UniqueIdentifier>{23be5233-2ca2-48cd-be15-2950d52bd77a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\Resource\Resources\Texture">
+      <UniqueIdentifier>{0fa7dc61-94f5-4455-a3cb-db909fb88c58}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\Object\Component\Manager">
+      <UniqueIdentifier>{c6366e51-0845-4da5-8ad0-6d21cf25579a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\Object\Component\Components">
+      <UniqueIdentifier>{8ffdb2cd-b172-4a29-b6a0-fc199b781331}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\Object\Component\Components\Transform">
+      <UniqueIdentifier>{751abac6-4769-4c2c-8502-5119cb39983f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="External">
+      <UniqueIdentifier>{bcdeccc6-b16e-4961-bdb3-3b0dbd95229e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="External\tinyxml2">
+      <UniqueIdentifier>{6f1564a7-30e6-44e2-bde8-67c9e9bc14ee}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\Systems\GraphicSystem\GraphicSystems\DX9GraphicSystem\DX9RenderTarget">
+      <UniqueIdentifier>{3eb942f8-f4e4-4d4f-9788-cbc3939fa506}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\Systems\GraphicSystem\RenderTarget">
+      <UniqueIdentifier>{be4c527a-a239-4bbc-98fc-8276bc2edb66}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\Object\Component\Components\SpriteRenderer">
+      <UniqueIdentifier>{d7ce39c2-3279-4246-b789-f668712e2647}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\Systems\ObjectManageSystem">
+      <UniqueIdentifier>{e558a529-5e41-4e0b-82c9-59c04e4dc080}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Core.h">
+      <Filter>Core</Filter>
+    </ClInclude>
+    <ClInclude Include="Windows.h">
+      <Filter>Core\Headers\API</Filter>
+    </ClInclude>
+    <ClInclude Include="DX9.h">
+      <Filter>Core\Headers\API</Filter>
+    </ClInclude>
+    <ClInclude Include="DX11.h">
+      <Filter>Core\Headers\API</Filter>
+    </ClInclude>
+    <ClInclude Include="Singleton.h">
+      <Filter>Core\Algorithm</Filter>
+    </ClInclude>
+    <ClInclude Include="Error.h">
+      <Filter>Core\Error</Filter>
+    </ClInclude>
+    <ClInclude Include="Define_Safe.h">
+      <Filter>Core\Headers\Defined</Filter>
+    </ClInclude>
+    <ClInclude Include="Define_GetterSetter.h">
+      <Filter>Core\Headers\Defined</Filter>
+    </ClInclude>
+    <ClInclude Include="Define_IsSameType.h">
+      <Filter>Core\Headers\Defined</Filter>
+    </ClInclude>
+    <ClInclude Include="Define_TypeName.h">
+      <Filter>Core\Headers\Defined</Filter>
+    </ClInclude>
+    <ClInclude Include="System.h">
+      <Filter>System</Filter>
+    </ClInclude>
+    <ClInclude Include="Math.h">
+      <Filter>Core\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector3.h">
+      <Filter>Core\Math\Vector3</Filter>
+    </ClInclude>
+    <ClInclude Include="WindowSystem.h">
+      <Filter>System\Systems\WindowSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="SystemManager.h">
+      <Filter>System\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="Object.h">
+      <Filter>System\Object</Filter>
+    </ClInclude>
+    <ClInclude Include="Matrix4x4.h">
+      <Filter>Core\Math\Matrix4x4</Filter>
+    </ClInclude>
+    <ClInclude Include="GraphicSystem.h">
+      <Filter>System\Systems\GraphicSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="GraphicTexture.h">
+      <Filter>System\Systems\GraphicSystem\GraphicTexture</Filter>
+    </ClInclude>
+    <ClInclude Include="DX9GraphicSystem.h">
+      <Filter>System\Systems\GraphicSystem\GraphicSystems\DX9GraphicSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="DX9GraphicTexture.h">
+      <Filter>System\Systems\GraphicSystem\GraphicSystems\DX9GraphicSystem\DX9GraphicTexture</Filter>
+    </ClInclude>
+    <ClInclude Include="TimerSystem.h">
+      <Filter>System\Systems\TimerSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>System\Resource</Filter>
+    </ClInclude>
+    <ClInclude Include="Texture.h">
+      <Filter>System\Resource\Resources\Texture</Filter>
+    </ClInclude>
+    <ClInclude Include="ResourceManageSystem.h">
+      <Filter>System\Systems\ResourceManageSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="Component.h">
+      <Filter>System\Object\Component</Filter>
+    </ClInclude>
+    <ClInclude Include="ComponentManager.h">
+      <Filter>System\Object\Component\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjectManageSystem.h">
+      <Filter>System\Systems\ObjectManageSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="Transform.h">
+      <Filter>System\Object\Component\Components\Transform</Filter>
+    </ClInclude>
+    <ClInclude Include="TinyXML\tinyxml2.h">
+      <Filter>External\tinyxml2</Filter>
+    </ClInclude>
+    <ClInclude Include="RenderTarget.h">
+      <Filter>System\Systems\GraphicSystem\RenderTarget</Filter>
+    </ClInclude>
+    <ClInclude Include="DX9RenderTarget.h">
+      <Filter>System\Systems\GraphicSystem\GraphicSystems\DX9GraphicSystem\DX9RenderTarget</Filter>
+    </ClInclude>
+    <ClInclude Include="SpriteRenderer.h">
+      <Filter>System\Object\Component\Components\SpriteRenderer</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Error.cpp">
+      <Filter>Core\Error</Filter>
+    </ClCompile>
+    <ClCompile Include="System.cpp">
+      <Filter>System</Filter>
+    </ClCompile>
+    <ClCompile Include="Vector3.cpp">
+      <Filter>Core\Math\Vector3</Filter>
+    </ClCompile>
+    <ClCompile Include="WindowSystem.cpp">
+      <Filter>System\Systems\WindowSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="SystemManager.cpp">
+      <Filter>System\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="Object.cpp">
+      <Filter>System\Object</Filter>
+    </ClCompile>
+    <ClCompile Include="Matrix4x4.cpp">
+      <Filter>Core\Math\Matrix4x4</Filter>
+    </ClCompile>
+    <ClCompile Include="GraphicSystem.cpp">
+      <Filter>System\Systems\GraphicSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="GraphicTexture.cpp">
+      <Filter>System\Systems\GraphicSystem\GraphicTexture</Filter>
+    </ClCompile>
+    <ClCompile Include="DX9GraphicSystem.cpp">
+      <Filter>System\Systems\GraphicSystem\GraphicSystems\DX9GraphicSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="DX9GraphicTexture.cpp">
+      <Filter>System\Systems\GraphicSystem\GraphicSystems\DX9GraphicSystem\DX9GraphicTexture</Filter>
+    </ClCompile>
+    <ClCompile Include="TimerSystem.cpp">
+      <Filter>System\Systems\TimerSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="Resource.cpp">
+      <Filter>System\Resource</Filter>
+    </ClCompile>
+    <ClCompile Include="Texture.cpp">
+      <Filter>System\Resource\Resources\Texture</Filter>
+    </ClCompile>
+    <ClCompile Include="ResourceManageSystem.cpp">
+      <Filter>System\Systems\ResourceManageSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="Component.cpp">
+      <Filter>System\Object\Component</Filter>
+    </ClCompile>
+    <ClCompile Include="ComponentManager.cpp">
+      <Filter>System\Object\Component\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjectManageSystem.cpp">
+      <Filter>System\Systems\ObjectManageSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="Transform.cpp">
+      <Filter>System\Object\Component\Components\Transform</Filter>
+    </ClCompile>
+    <ClCompile Include="TinyXML\tinyxml2.cpp">
+      <Filter>External\tinyxml2</Filter>
+    </ClCompile>
+    <ClCompile Include="RenderTarget.cpp">
+      <Filter>System\Systems\GraphicSystem\RenderTarget</Filter>
+    </ClCompile>
+    <ClCompile Include="DX9RenderTarget.cpp">
+      <Filter>System\Systems\GraphicSystem\GraphicSystems\DX9GraphicSystem\DX9RenderTarget</Filter>
+    </ClCompile>
+    <ClCompile Include="SpriteRenderer.cpp">
+      <Filter>System\Object\Component\Components\SpriteRenderer</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

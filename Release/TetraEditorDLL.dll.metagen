@@ -1,0 +1,33 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly TetraEditorDLL, Version=0.0.*, Culture=고정 언어(고정 국가): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class D3DMesh.Vector: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(Single, Single, Single): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Single x : Public
+    Single y : Public
+    Single z : Public
+Class D3DMesh.D3DWrapper: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    Initialize(IntPtr): PrivateScope, Public, HideBySig
+    Render(Int32&, Int32&): PrivateScope, Public, HideBySig
+    Cleanup(): PrivateScope, Public, HideBySig
+    AddObject(String): PrivateScope, Public, HideBySig
+    GetTransformX(String): PrivateScope, Public, HideBySig
+    GetTransformY(String): PrivateScope, Public, HideBySig
+    GetTransformZ(String): PrivateScope, Public, HideBySig
+    SetTransform(String, Single, Single, Single): PrivateScope, Public, HideBySig
+    GetObjectNum(): PrivateScope, Public, HideBySig
+    GetObjectName(Int32): PrivateScope, Public, HideBySig
+    SetObjectName(String, String): PrivateScope, Public, HideBySig
+    GetSpriteResource(String): PrivateScope, Public, HideBySig
+    SetSpriteResource(String, String): PrivateScope, Public, HideBySig
+    KeyboardMove(String): PrivateScope, Public, HideBySig
+    AddResource(String, String): PrivateScope, Public, HideBySig
+    GetResourceNum(): PrivateScope, Public, HideBySig
+    GetResourceName(Int32): PrivateScope, Public, HideBySig

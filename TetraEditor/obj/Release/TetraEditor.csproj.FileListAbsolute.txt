@@ -1,0 +1,15 @@
+C:\Users\김민준\Desktop\TetraEngine\TetraEditor\bin\Release\TetraEditor.exe.config
+C:\Users\김민준\Desktop\TetraEngine\TetraEditor\obj\Release\MainWindow.baml
+C:\Users\김민준\Desktop\TetraEngine\TetraEditor\obj\Release\MainWindow.g.cs
+C:\Users\김민준\Desktop\TetraEngine\TetraEditor\obj\Release\App.g.cs
+C:\Users\김민준\Desktop\TetraEngine\TetraEditor\obj\Release\TetraEditor_MarkupCompile.cache
+C:\Users\김민준\Desktop\TetraEngine\TetraEditor\obj\Release\TetraEditor.g.resources
+C:\Users\김민준\Desktop\TetraEngine\TetraEditor\obj\Release\TetraEditor.Properties.Resources.resources
+C:\Users\김민준\Desktop\TetraEngine\TetraEditor\obj\Release\TetraEditor.csproj.GenerateResource.Cache
+C:\Users\김민준\Desktop\TetraEngine\TetraEditor\bin\Release\TetraEditor.exe
+C:\Users\김민준\Desktop\TetraEngine\TetraEditor\bin\Release\TetraEditor.pdb
+C:\Users\김민준\Desktop\TetraEngine\TetraEditor\bin\Release\TetraEditorDLL.dll
+C:\Users\김민준\Desktop\TetraEngine\TetraEditor\bin\Release\TetraEditorDLL.pdb
+C:\Users\김민준\Desktop\TetraEngine\TetraEditor\obj\Release\TetraEditor.csprojResolveAssemblyReference.cache
+C:\Users\김민준\Desktop\TetraEngine\TetraEditor\obj\Release\TetraEditor.exe
+C:\Users\김민준\Desktop\TetraEngine\TetraEditor\obj\Release\TetraEditor.pdb
